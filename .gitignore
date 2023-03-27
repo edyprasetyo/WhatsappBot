@@ -1,0 +1,21 @@
+# Virtual environment
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and backups
+*.log
+*.bak
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependencies
+lib/
+bin/
+include/
+pip-selfcheck.json
